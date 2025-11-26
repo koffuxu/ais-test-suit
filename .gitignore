@@ -1,0 +1,5 @@
+# Ignore local test upload folder
+test1126/
+
+# Ignore temporary test file used earlier
+ftp-upload-test.txt
